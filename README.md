@@ -4,7 +4,7 @@ Repositório destinado ao desenvolvimento de trabalhos relacionados a disciplina
 
 <h1 align="center">
   <br>
-  <a href="C:\Users\laris\Downloads\Post instagram empreendedorismo feminino colorido verde e lilás .png"><img src="C:\Users\laris\Downloads\Post instagram empreendedorismo feminino colorido verde e lilás .png" alt="Empreendedorismo e Inovação em TIC" width="200"></a>
+  <a href="https://imagem.app/image/o2XsIi"><img src="https://imagem.app/image/o2XsIi" alt="Empreendedorismo e Inovação em TIC" width="200"></a>
   <br>
   Empreendedorismo e Inovação em TIC
   <br>
