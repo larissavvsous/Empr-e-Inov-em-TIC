@@ -4,7 +4,7 @@ Repositório destinado ao desenvolvimento de trabalhos relacionados a disciplina
 
 <h1 align="center">
   <br>
-  <a href="https://imagem.app/image/o2XsIi"><img src="https://imagem.app/image/o2XsIi" alt="Empreendedorismo e Inovação em TIC" width="200"></a>
+  <a href="https://imagem.app/image/o2XsIi"><img src="https://a.imagem.app/o2XsIi.png" alt="o2XsIi.png" border="0" /></a>
   <br>
   Empreendedorismo e Inovação em TIC
   <br>
