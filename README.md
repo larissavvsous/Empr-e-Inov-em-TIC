@@ -45,5 +45,5 @@ companheiro confiável para descobrir, conectar-se e explorar a cidade.
 <a href="https://imagem.app/image/o2XFwe"><img src="https://a.imagem.app/o2XFwe.png" alt="o2XFwe.png" border="0" /></a>
 
 > **Observação**
-> Essa empresa ainda é fictícia, pois ainda não tiramos do papel!
+> Essa empresa ainda é 'fictícia', pois ainda não tiramos do papel!
 
