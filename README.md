@@ -40,6 +40,8 @@ companheiro confiável para descobrir, conectar-se e explorar a cidade.
 
 * A nossa logomarca "Itapajé Info", nas cores azul e branco, remetem as cores da bandeira da nossa cidade, com o "Info" em destaque para relembrar que o nosso principal objetivo é oferecer informações de qualidade.
 
+<h1 align="center">
+  <br>
 <a href="https://imagem.app/image/o2XFwe"><img src="https://a.imagem.app/o2XFwe.png" alt="o2XFwe.png" border="0" /></a>
 
 > **Observação**
